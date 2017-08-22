@@ -1,3 +1,10 @@
+==============================
+:warning: DEPRECATED :warning:
+==============================
+
+Go to the new version `Flask-ERPPeek <https://github.com/gisce/flask-erppeek>`_
+
+
 Flask-OpenERP
 =============
 
